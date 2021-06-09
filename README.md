@@ -25,6 +25,7 @@ Please install and untar [INRIAPerson Dataset](http://pascal.inrialpes.fr/data/h
 For generating(and augmentation) data...
 
 ```sh
+tar -xvf ./INRIAPerson.tar
 python3 ./gen_data.py
 ```
 
