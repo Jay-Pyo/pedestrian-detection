@@ -1,7 +1,7 @@
 # ICV21-FinalProejct
 ## _Pedestrian Detection Algorithm Using Various Methods_
+![image](https://user-images.githubusercontent.com/24820139/121356404-c3e23e80-c96b-11eb-84a7-b3184a9dccf6.png)
 
-[![N|Solid](https://www.snu.ac.kr/webdata/uploads/kor/image/2019/12/about-symbold-logo-love_lg.png)](https://www.snu.ac.kr/)
 
 >This project deals with pedestrian detection algorithms using [INRIAPerson Dataset](http://pascal.inrialpes.fr/data/human/). It is written with the intention of learning Non-Learning Computer vision.
 
